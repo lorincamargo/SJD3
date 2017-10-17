@@ -1,0 +1,252 @@
+<table>
+<tbody>
+<tr>
+<th class="first-column">Group Name</th>
+<th>Meeting Frequency</th>
+<th>Meeting Location</th>
+<th>Meeting Date</th>
+<th>Meeting Time</th>
+<th>Staff Liaison</th>
+</tr>
+<tr>
+<td>Anne Darling/Little Portugal North Neighborhood Group</td>
+<td>Quarterly</td>
+<td>Anne Darling School</td>
+<td>TBD</td>
+<td>6:30 p.m.</td>
+<td>Angel Martinez</td>
+</tr>
+<tr>
+<td>Campus Community Association/ Naglee Park</td>
+<td>Monthly</td>
+<td>Varies</td>
+<td>3rd Tuesday</td>
+<td>6:30 p.m.</td>
+<td>Patricia Ceja</td>
+</tr>
+<tr>
+<td>Delmas Park Neighborhood Association</td>
+<td>Monthly</td>
+<td>iJava</td>
+<td>4th Tuesday</td>
+<td>6:45 p.m.</td>
+<td>David Tran</td>
+</tr>
+<tr>
+<td>El Rancho Verde Neighborhood Association</td>
+<td>Monthly</td>
+<td>303 Checkers Drive</td>
+<td>1st Wednesday</td>
+<td>5:30 p.m.</td>
+<td>David Tran</td>
+</tr>
+<tr>
+<td>Gardner Advisory Council</td>
+<td>Monthly</td>
+<td>Gardner Community Center</td>
+<td>1st Tuesday</td>
+<td>7:00 p.m.</td>
+<td>Lilia Sandoval Guerrero</td>
+</tr>
+<tr>
+<td>Goodyear Mastic Neighborhood Association</td>
+<td>Monthly</td>
+<td>Alma Center (136 W. Alma Ave.)</td>
+<td>2nd Wednesday</td>
+<td>6:00 p.m.</td>
+<td>Lilia Sandoval Guerrero</td>
+</tr>
+<tr>
+<td>Guadalupe / Washington Neighborhood Association</td>
+<td>Monthly</td>
+<td>Washington United Youth Center</td>
+<td>1st Tuesday</td>
+<td>6:00 p.m.</td>
+<td>Lilia Sandoval Guerrero</td>
+</tr>
+<tr>
+<td>Washington Area Community Coalition</td>
+<td>Monthly</td>
+<td>Alma Senior Center</td>
+<td>2nd Tuesday</td>
+<td>6:00 p.m.</td>
+<td>Lilia Sandoval Guerrero</td>
+</tr>
+<tr>
+<td>Historic Hensley District Neighborhood Association</td>
+<td>Bi-monthly</td>
+<td>Northside Community Center</td>
+<td>Last Tuesday of Odd Months</td>
+<td>7:00 p.m.</td>
+<td>Mindy Nguyen</td>
+</tr>
+<tr>
+<td>Horace Mann Neighborhood Association</td>
+<td>Quarterly</td>
+<td>San Jose City Hall</td>
+<td>2nd Tuesday (March, May, Oct., Dec.)</td>
+<td>7:00 p.m.</td>
+<td>Angel Martinez</td>
+</tr>
+<tr>
+<td>Hyde Park Neighborhood Association</td>
+<td>Quarterly</td>
+<td>SCC Federal Credit Union (852 N. 1st St.)</td>
+<td>TBD</td>
+<td>6:30 p.m.</td>
+<td>Mindy Nguyen</td>
+</tr>
+<tr>
+<td>Japantown Business Association</td>
+<td>Monthly</td>
+<td>565 N. Sixth St., Suite G</td>
+<td>3rd Thursday</td>
+<td>6:30 p.m.</td>
+<td>Mindy Nguyen</td>
+</tr>
+<tr>
+<td>Japantown Community Congress</td>
+<td>Monthly</td>
+<td>565 N 5th St.</td>
+<td>4th Tuesday</td>
+<td>6:30p.m.</td>
+<td>Mindy Nguyen</td>
+</tr>
+<tr>
+<td>Japantown Neighborhood Association</td>
+<td>Bi-monthly</td>
+<td>711 N 7th St.</td>
+<td>2nd Thursday</td>
+<td>6:30 p.m.</td>
+<td>Mindy Nguyen</td>
+</tr>
+<tr>
+<td>Julian St. James Neighborhood Association (JJNA)</td>
+<td>Quarterly</td>
+<td>Member Home / Casa Vicky’s</td>
+<td>TBD</td>
+<td>7:00 p.m.</td>
+<td>David Tran</td>
+</tr>
+<tr>
+<td>Luna Park Business Association aka 13th Street Business Association</td>
+<td>Monthly</td>
+<td>Varies</td>
+<td>Last Thursday</td>
+<td>9:00 a.m.</td>
+<td>Angel Martinez</td>
+</tr>
+<tr>
+<td>Madera Horning Neighborhood Association</td>
+<td>Monthly</td>
+<td>Varies</td>
+<td>2nd Wednesday</td>
+<td>6:30 p.m.</td>
+<td>Angel Martinez</td>
+</tr>
+<tr>
+<td>Market – Almaden Neighborhood Association</td>
+<td>Quarterly</td>
+<td>Varies</td>
+<td>TBD</td>
+<td>6:30 p.m.</td>
+<td>David Tran</td>
+</tr>
+<tr>
+<td>McKinley Bonita Neighborhood Association</td>
+<td>Monthly</td>
+<td>McKinley Neighborhood Center</td>
+<td>2nd Wednesday</td>
+<td>6:00 p.m.</td>
+<td>Lilia Sandoval Guerrero</td>
+</tr>
+<tr>
+<td>Newhall Neighborhood Association</td>
+<td>Quarterly</td>
+<td>1041 Morse St., Quaker Mtg House</td>
+<td>TBD</td>
+<td>7:00 p.m.</td>
+<td>Mindy Nguyen</td>
+</tr>
+<tr>
+<td>Northside Neighborhood Association</td>
+<td>Monthly</td>
+<td>Joyce Ellington Library</td>
+<td>1st Monday</td>
+<td>7:00 p.m.</td>
+<td>Angel Martinez</td>
+</tr>
+<tr>
+<td>Orchard Park Homeowners’ Association</td>
+<td>Quarterly</td>
+<td>Orchard Park Community Room</td>
+<td>Monthly</td>
+<td>Varies</td>
+<td>Mindy Nguyen</td>
+</tr>
+<tr>
+<td>Roosevelt Park Neighborhood Association</td>
+<td>Monthly</td>
+<td>Roosevelt Community Center</td>
+<td>3rd Tuesday</td>
+<td>6:30 p.m.</td>
+<td>Patricia Ceja</td>
+</tr>
+<tr>
+<td>Rosemary Gardens Neighborhood Association</td>
+<td>Annually</td>
+<td>Walter L. Bachrodt Elementary School</td>
+<td>TBD</td>
+<td>6:30 p.m.</td>
+<td>Angel Martinez</td>
+</tr>
+<tr>
+<td>San Jose Downtown Residents Association</td>
+<td>Monthly</td>
+<td>Paseo Plaza</td>
+<td>2nd Saturday</td>
+<td>10:00 a.m.</td>
+<td>David Tran</td>
+</tr>
+<tr>
+<td>South University Neighborhood Association (SUN)</td>
+<td>Monthly</td>
+<td>Varies</td>
+<td>3rd Tuesday</td>
+<td>7:00 p.m.</td>
+<td>Patricia Ceja</td>
+</tr>
+<tr>
+<td>Spartan Keyes Neighborhood Advisory Committee</td>
+<td>Monthly</td>
+<td>Leininger Center</td>
+<td>2nd Wednesday</td>
+<td>7:00 p.m.</td>
+<td>Lilia Sandoval Guerrero</td>
+</tr>
+<tr>
+<td>Thirteen Street Neighborhood Advisory Committee</td>
+<td>Monthly</td>
+<td>Joyce Ellington Library</td>
+<td>3rd Thursday</td>
+<td>6:30 p.m.</td>
+<td>Angel Martinez</td>
+</tr>
+<tr>
+<td>University Neighborhoods Coalition (NAC)</td>
+<td>Monthly</td>
+<td>Notre Dame High School</td>
+<td>2nd Tuesday</td>
+<td>7:00 p.m.</td>
+<td>Patricia Ceja</td>
+</tr>
+<tr>
+<td>Vendome Neighborhood Association </td>
+<td>Monthly</td>
+<td>Varies</td>
+<td>Varies</td>
+<td>Varies</td>
+<td>Mindy Nguyen</td>
+</tr>
+</tbody>
+</table>

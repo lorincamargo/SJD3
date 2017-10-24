@@ -49,9 +49,14 @@ a:hover {
 		font-style: italic;
 	}
 
+.hentry-wrapper {
+		padding-top: 0;
+	}
+
 .wp-image-267 {
 	padding-bottom: 20px;
 	}
+}
 }
 
 #content {

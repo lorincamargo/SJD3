@@ -40,16 +40,6 @@ a:hover {
 	color: #FFFFFF;
 }
 
-//Link Spacing
-
-.page-id-226 {
-	p {
-		padding-bottom: 0;
-		padding-top: 0;
-		margin-bottom: 10px;
-		margin-top: 10px;
-	}
-}
 
 // Home page
 
@@ -58,6 +48,11 @@ a:hover {
 		background-color: #BB3800;
 		font-style: italic;
 	}
+
+.main-image {
+	padding: 40px;
+	margin: 20px;
+}
 }
 
 #content {
@@ -104,7 +99,6 @@ a:hover {
 }
 
 // Memoranda page
-
 .page-id-70 {
 	#primary {
 	  float: left;
@@ -137,8 +131,13 @@ a:hover {
 		width: 300px;
 	}
 
-//D3 Team page
+.neighborhood-table {
+	display: block;
+	overflow-x: scroll;
+}
 
+//D3 Team page
+	
 .second-column {
 		width: 300px;
 		padding-top: 20px;
@@ -149,9 +148,39 @@ a:hover {
 	padding-top: 20px;
 }
 
-//Meet Raul Page
+.mobile-spacing {
+	display: none;
+}
 
+//Meet Raul Page
 .pic-align-top {
 	vertical-align: top;
 	padding-top: 25px;
+}
+
+//Bio Tables
+
+@media (max-width: 800px) {
+	.bio-table th, .bio-table td {
+		display: table-row;
+	}
+	.bio-table {
+		padding: 20px;
+		border-width: 0;
+	}
+	.mobile-spacing {
+		height: 40px;
+		display: initial;
+	}
+}
+
+//Resource pages shapes
+
+.element-round-sq {
+	height: 100px;
+	width: 100px;
+	border-radius: 90%;
+	fill: #FFF;
+	visibility: visible;
+
 }

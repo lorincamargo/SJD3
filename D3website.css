@@ -49,7 +49,7 @@ a:hover {
 		font-style: italic;
 	}
 
-.hentry-wrapper {
+	#hentry-wrapper {
 		padding-top: 0;
 	}
 
@@ -178,13 +178,4 @@ a:hover {
 	}
 }
 
-//Resource pages shapes
 
-.element-round-sq {
-	height: 100px;
-	width: 100px;
-	border-radius: 90%;
-	fill: #FFF;
-	visibility: visible;
-
-}

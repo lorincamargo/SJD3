@@ -1,8 +1,7 @@
-/*
-Welcome to Custom CSS!
 
-To learn how this works, see http://wp.me/PEmnE-Bt
-*/
+
+
+/* PAGE DEFAULT */
 
 footer {
 	display: none;
@@ -34,14 +33,15 @@ footer {
 	line-height: 200%;
 }
 
-//Mouse over link
+
+/* MOUSE OVER LINK */
 
 a:hover {
 	color: #FFFFFF;
 }
 
 
-// Home page
+/* HOME PAGE */
 
 .page-id-5 {
 	#content {
@@ -102,7 +102,8 @@ a:hover {
 	}
 }
 
-// Memoranda page
+/* MEMORANDA PAGE - MAYBE DELETE */
+
 .page-id-70 {
 	#primary {
 	  float: left;
@@ -129,7 +130,7 @@ a:hover {
 	color: #FFF; 
 }
 
-// Find Your Neighborhood page
+/* FIND YOUR NEIGHBORHOOD PAGE */
 
 .first-column {
 		width: 300px;
@@ -140,7 +141,7 @@ a:hover {
 	overflow-x: scroll;
 }
 
-//D3 Team page
+/* MEET THE TEAM PAGE */
 	
 .second-column {
 		width: 300px;
@@ -156,13 +157,14 @@ a:hover {
 	display: none;
 }
 
-//Meet Raul Page
+/* MEET RAUL PAGE */
+
 .pic-align-top {
 	vertical-align: top;
 	padding-top: 25px;
 }
 
-//Bio Tables
+/* BIO TABLES */
 
 @media (max-width: 800px) {
 	.bio-table th, .bio-table td {
@@ -177,5 +179,3 @@ a:hover {
 		display: initial;
 	}
 }
-
-

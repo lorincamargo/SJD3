@@ -33,7 +33,6 @@ footer {
 	line-height: 200%;
 }
 
-
 /* MOUSE OVER LINK */
 
 a:hover {
@@ -106,7 +105,7 @@ a:hover {
 
 .page-id-70 {
 	#primary {
-	  float: left;
+		float: left;
 		width: 60%;
 	}
 	#secondary {
@@ -133,7 +132,7 @@ a:hover {
 /* FIND YOUR NEIGHBORHOOD PAGE */
 
 .first-column {
-		width: 300px;
+	width: 300px;
 	}
 
 .neighborhood-table {
@@ -144,8 +143,8 @@ a:hover {
 /* MEET THE TEAM PAGE */
 	
 .second-column {
-		width: 300px;
-		padding-top: 20px;
+	width: 300px;
+	padding-top: 20px;
 	}
 
 .bio-align-left {
